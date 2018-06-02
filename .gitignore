@@ -1,0 +1,15 @@
+/BASE/INIT_DL6/*
+/__TEMP__
+/ManWork/Help/prepare/*
+/ManWork/Help/*.chm
+/Src/BuildVC2015/.vs
+/Src/BuildVC2015/*.db
+/Src/BuildVC2015/*.opendb
+/Src/BuildVC2015/*.log
+/Src/BuildVC2015/*.user
+/Src/Include/charry.H
+/Src/Include/pphelp.h
+/Src/LIB/*.lib
+/Src/PPMain/ppbrow-embed.rc
+/Src/PPMain/ppw_ver.rc
+/Src/Rsrc/Dlg/*.scp
